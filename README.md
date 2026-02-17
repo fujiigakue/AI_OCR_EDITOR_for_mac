@@ -1,4 +1,4 @@
-# AI_OCR_EDITOR_for_Windows
+# AI_OCR_EDITOR_for_mac
 令和大蔵経プロジェクトエディターです。
 ブラウザ上での編集作業を代替します。
 WindowsPCをお使いの方はこちらからダウンロードしてください。
